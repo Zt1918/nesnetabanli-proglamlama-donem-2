@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\bin\Debug\Ders.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\bin\Debug\Ders.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\bin\Debug\Ders.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025027\Ders\Ders\obj\Debug\Ders.pdb
