@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\bin\Debug\AcilirMenuler.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\bin\Debug\AcilirMenuler.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\bin\Debug\AcilirMenuler.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\AcilirMenuler\AcilirMenuler\obj\Debug\AcilirMenuler.pdb

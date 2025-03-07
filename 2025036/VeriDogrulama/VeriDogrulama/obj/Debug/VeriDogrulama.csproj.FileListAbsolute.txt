@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\bin\Debug\VeriDogrulama.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\bin\Debug\VeriDogrulama.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\bin\Debug\VeriDogrulama.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\VeriDogrulama\VeriDogrulama\obj\Debug\VeriDogrulama.pdb

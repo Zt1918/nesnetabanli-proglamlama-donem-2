@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\bin\Debug\PanelKontorolu.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\bin\Debug\PanelKontorolu.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\bin\Debug\PanelKontorolu.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025036\PanelKontorolu\PanelKontorolu\obj\Debug\PanelKontorolu.pdb
